@@ -1,0 +1,36 @@
+.news__column {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.news__content {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 1 50%;
+  flex: 0 1 50%;
+}
+
+.news__card {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 1 50%;
+  flex: 0 1 50%;
+}
+
+.content-news {
+  text-align: center;
+}
+
+.content-news__top {
+  font-size: 60px;
+  line-height: 30px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+  font-family: 'Alegreya', serif;
+}
+
+.content-news__suptitle {
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #c8a593;
+}
